@@ -1,0 +1,5 @@
+admin,$2b$12$k1SsJH.xc1wtRGgDhpbIueG5WmdUqqkc4auyEB.6YcjFeGY0eoDGO,Admin
+teller,$2b$12$HxlX18/NhpdjSuGp7UMVVe4yq4EYnTWoiUbToHSOKQ5EyvFTLqlTy,Teller
+FPlan,$2b$12$dDCYBcVVbkV7cuP67CTKa.S8zDybw82up3r.M4DdbiaxvN0cctcKS,FinancialPlanner
+FinAdv,$2b$12$sHNmr.8aW5BlhcUGbIshdeETHghvoP.9RV/BTzgWT.azNQwQijlXC,FinancialAdvisor
+client,$2b$12$tL5k72FrRyDDVYSrVKMkfOTpXOGirKymgc4BMH77x0SUhLafMtKUi,Client
