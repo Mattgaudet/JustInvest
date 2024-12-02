@@ -3,8 +3,8 @@ import bcrypt
 # Hashing a password
 def hash_password(password):
     # Convert the password to bytes and hash it
-    salt = bcrypt.gensalt()  # Automatically generates a salt
-    hashed = bcrypt.hashpw(password.encode('utf-8'), salt)
+    salt = bcrypt.gensalt()  # Automatically generates a salt, using default of 12 salt rounds
+    hashed = bcrypt.hashpw(password.encode('utf-8'), salt) #Hash the password
     return hashed
 
 # Verifying a password
