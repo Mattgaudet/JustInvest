@@ -1,7 +1,7 @@
 ## Setup Steps
 Open a terminal and run the following commands
 
-- `git clone https://Mattgaudet/JustInvest`
+- `git clone https://github.com/Mattgaudet/JustInvest`
 - `cd JustInvest`
 - `python3 main.py`
 - If you get ModuleNotFoundError: no module named 'tkinter' run: `sudo apt-get install python3-tk` and then enter `y`.
