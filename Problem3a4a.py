@@ -23,6 +23,7 @@ def login_page(root):
     password_entry = tk.Entry(login_frame, show="*", width=30)
     password_entry.pack(pady=5)
     
+    # Problem 4a
     def handle_login():
         username = username_entry.get()
         password = password_entry.get()
@@ -34,6 +35,7 @@ def login_page(root):
         else:
             messagebox.showerror("Error", "Invalid credentials!")
 
+    # Problem 3a
     def handle_signup():
         username = username_entry.get()
         password = password_entry.get()
